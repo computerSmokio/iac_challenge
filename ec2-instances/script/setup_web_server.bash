@@ -7,7 +7,7 @@ mkdir -p /var/www/html | true
 cat << EOF | tee /var/www/html/index.html
 <html>
     <body>
-        <h1><italic>Hello world!</italic></h1>
+        <h1><italic>Hola soy Matías Vargas y este es mi IaC!</italic></h1>
     </body>
 </html>
 EOF
